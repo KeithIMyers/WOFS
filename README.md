@@ -8,6 +8,7 @@ Advantages of WOFS
 - Easy To Install
 - Immune to ransomeware
 - Immune to hackers
+- Tastes great on toast
 
 ## Installation Instructions
 As root, run the following
