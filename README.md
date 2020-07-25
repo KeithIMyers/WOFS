@@ -11,9 +11,9 @@ Advantages of WOFS
 
 ## Installation Instructions
 As root, run the following
-- mkdir -p /mnt/ROFS-storage
-- mount /dev/null /mnt/ROFS-storage
+- mkdir -p /mnt/WOFS-storage
+- mount /dev/null /mnt/WOFS-storage
 
-Thats It, your new ROFS is ready for use at /mnt/ROFS-storage
+Thats It, your new WOFS is ready for use at /mnt/WOFS-storage
 
-Note : I am not responsible for your files, only move files into the ROFS-storage that you have a backuo of. Clearly this whole project is a joke so I dont thing I actually need to say not to use this but I know someone will try it.
+Note : I am not responsible for your files, only move files into the WOFS-storage that you have a backuo of. Clearly this whole project is a joke so I dont thing I actually need to say not to use this but I know someone will try it.
