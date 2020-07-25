@@ -9,7 +9,7 @@ Advantages of WOFS
 - Extends the life of NAND flash - WOFS does not cause any read/write cycles on your SSD which extends the life of your SSDs
 - Infinite Storage - A WOFS Filesystem is essentially unlimited, it is impossible to fill up, You can even store your "Homework" folder in it and reclaim 500+ GB from your main hard disk
 - Easy To Install
-- Immune to ransomeware
+- Immune to ransom-ware
 - Immune to hackers
 - Tastes great on toast
 
