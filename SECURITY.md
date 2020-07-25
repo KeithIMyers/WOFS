@@ -11,4 +11,4 @@ All versions of Linux.
 
 ## Reporting a Vulnerability
 
-Impossible!
+Impossible! - Unless you screwed up and saved things outside of the WOFS
