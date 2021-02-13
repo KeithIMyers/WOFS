@@ -22,4 +22,4 @@ As root, run the following
 
 Thats It, your new WOFS is ready for use at /mnt/WOFS-storage
 
-Note : I am not responsible for your files, only move files into the WOFS-storage that you have a backup of. Clearly this whole project is a joke so I dont thing I actually need to say not to use this but I know someone will try it.
+Note : I am not responsible for your files, only move files into the WOFS-storage that you have a backup of. Clearly this whole project is a joke so I dont think I actually need to say not to use this but I know someone will try it.
