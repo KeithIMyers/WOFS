@@ -1,5 +1,5 @@
 # WOFS (BETA)
-The Write Only File System (WOFS) is the first POSIX compliant filesystem that focuses on security, stability and ensuring your hard drive can never fill up regardless of the number of conspiracy theory videos you download to your machine. It's infinate. 
+The Write Only File System (WOFS) is the first POSIX compliant filesystem that focuses on security, stability and ensuring your hard drive can never fill up regardless of the number of conspiracy theory videos you download to your machine. It's infinite. 
 
 Advantages of WOFS
 - Free for Personal use and afforadable prices for enterprises and governments
